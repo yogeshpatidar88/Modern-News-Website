@@ -1,5 +1,0 @@
-javascript
-flask
-gunicorn
-web: npm start
-json file
